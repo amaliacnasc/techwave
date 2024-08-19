@@ -1,0 +1,54 @@
+.width-formulario{
+    max-width: 650px;
+}
+.cor-verde-escura{
+    background-color: #013440;
+}
+
+.fonte-branca{
+    color: #ffffff;
+}
+
+body{
+    background-color: #c9d6ff;
+    background: linear-gradient( to right, #e2e2e2, #c9d6ff);
+}
+
+.container-formulario{
+    background-color: #fff;
+    box-shadow: 0 15px 5px rgba(0, 0, 0, 0.35);
+    border-radius: 30px;
+    position:relative;
+    overflow: hidden;
+}
+
+.imagem-inscricao{
+    border-radius: 30px ;
+    max-width: 400px;
+}
+
+.segundo-container{
+    background-color: #512da8;
+    border-radius: 150px 0 0 100px;
+    background: linear-gradient(to right, #5c6bc0 , #512da8);
+    height: 100%;
+}
+
+
+.texto-cta{
+    padding-top: 15px;
+    
+}
+
+.cor-roxa{
+   color: #512da8;
+}
+.background-roxo{
+    background-color: #512da8;
+}
+
+.fonte-minha{
+    font-family:"Montserrat Alternates", sans-serif;
+    font-weight: 100;
+    font-style: italic;}
+

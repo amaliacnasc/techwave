@@ -1,0 +1,43 @@
+
+.data-dia{
+font-size: 4rem;
+font-family:"Montserrat Alternates", sans-serif;
+font-weight: 100;
+font-style: italic;}
+
+.data-mes{
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    font-family:"Montserrat Alternates", sans-serif;
+    font-weight: 100;
+    font-style: italic;}
+
+.justificar-texto{
+
+    text-align: justify;
+}
+
+.segundo-container{
+    background-color: #512da8;
+    border-radius: 150px 0 0 100px;
+    background: linear-gradient(to right, #5c6bc0 , #512da8);
+    height: 100%;
+}
+
+.principal-container{
+    position: relative;
+    overflow: hidden;
+    padding-top: calc(7rem + 72px);
+    padding-bottom: 7rem;
+    background:#512da8;
+    background: linear-gradient(to right, #5c6bc0 , #512da8);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+.botao{
+    background-color: #c9d6ff;
+    background: linear-gradient( to right, #e2e2e2, #c9d6ff)
+}
