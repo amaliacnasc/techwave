@@ -68,3 +68,22 @@ body{
         text-decoration: underline;
         color: #e2e2e2;
     }
+
+    .mais{
+        opacity: 0;
+        height: 0;
+    }
+    .ativo{
+        opacity: 1;
+        height: auto;
+        transition: opacity 0.5s ease, height 0.5s ease;
+    
+    }
+    .back-footer{
+   
+        max-height: 300px;
+        border: 1px solid #512da8;
+        padding: 20px;
+        background-color: #512da8;
+        background: linear-gradient(to right, #5c6bc0 , #512da8);
+    }
